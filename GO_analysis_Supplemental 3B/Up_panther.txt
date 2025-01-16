@@ -1,0 +1,17 @@
+GOBP	Athaliana_REFLIST	GAHACR_UP_79	GAHACR_UP_expected	GAHACR_UP_over/under	GAHACR_UP_fold_Enrichment	GAHACR_UP_raw_P-value	GAHACR_UP_FDR
+photosynthesis,_light_harvesting_in_photosystem_I_(GO:0009768)	24	5	0.07	+	72.34	1.93E-08	2.84E-05
+response_to_low_light_intensity_stimulus_(GO:0009645)	32	4	0.09	+	43.4	3.46E-06	1.70E-03
+photosynthesis,_light_harvesting_(GO:0009765)	43	5	0.12	+	40.37	2.67E-07	3.14E-04
+photosynthesis,_light_reaction_(GO:0019684)	142	6	0.41	+	14.67	4.41E-06	2.00E-03
+circadian_rhythm_(GO:0007623)	127	5	0.37	+	13.67	4.00E-05	1.68E-02
+rhythmic_process_(GO:0048511)	127	5	0.37	+	13.67	4.00E-05	1.57E-02
+photosynthesis_(GO:0015979)	210	7	0.6	+	11.57	3.09E-06	1.65E-03
+response_to_light_intensity_(GO:0009642)	373	9	1.07	+	8.38	1.53E-06	9.99E-04
+response_to_red_or_far_red_light_(GO:0009639)	375	9	1.08	+	8.33	1.59E-06	9.38E-04
+response_to_cold_(GO:0009409)	473	10	1.36	+	7.34	1.24E-06	1.04E-03
+response_to_temperature_stimulus_(GO:0009266)	866	13	2.49	+	5.21	1.25E-06	9.17E-04
+response_to_light_stimulus_(GO:0009416)	2003	29	5.77	+	5.03	1.10E-13	6.48E-10
+response_to_radiation_(GO:0009314)	2045	29	5.89	+	4.92	1.85E-13	5.44E-10
+carboxylic_acid_metabolic_process_(GO:0019752)	1537	14	4.43	+	3.16	1.22E-04	4.49E-02
+response_to_abiotic_stimulus_(GO:0009628)	4114	33	11.85	+	2.79	9.57E-09	1.88E-05
+response_to_stimulus_(GO:0050896)	9304	49	26.8	+	1.83	5.08E-07	4.98E-04

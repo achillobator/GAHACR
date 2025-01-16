@@ -1,0 +1,21 @@
+GOBP	Athaliana_REFLIST	GAHACR_UP_79	GAHACR_UP_expected	GAHACR_UP_over/under	GAHACR_UP_fold_Enrichment	GAHACR_UP_raw_P-value	GAHACR_UP_FDR
+positive regulation of iron ion transport (GO:0034758)	2	2	0.01	+	100	6.04E-05	2.22E-02
+sulfate assimilation (GO:0019379)	3	3	0.01	+	100	6.28E-07	1.85E-03
+sulfate reduction (GO:0019419)	4	3	0.01	+	100	1.10E-06	2.15E-03
+sulfate assimilation (GO:0000103)	22	4	0.07	+	56.67	1.38E-06	1.63E-03
+S-glycoside biosynthetic process (GO:0016144)	42	4	0.13	+	29.69	1.44E-05	1.06E-02
+glucosinolate biosynthetic process (GO:0019761)	42	4	0.13	+	29.69	1.44E-05	9.40E-03
+glycosinolate biosynthetic process (GO:0019758)	42	4	0.13	+	29.69	1.44E-05	8.46E-03
+glycosyl compound biosynthetic process (GO:1901659)	48	4	0.15	+	25.98	2.35E-05	1.26E-02
+sulfur compound biosynthetic process (GO:0044272)	160	7	0.51	+	13.64	1.12E-06	1.65E-03
+secondary metabolite biosynthetic process (GO:0044550)	180	7	0.58	+	12.12	2.39E-06	2.34E-03
+alpha-amino acid biosynthetic process (GO:1901607)	175	6	0.56	+	10.69	2.58E-05	1.27E-02
+cellular amino acid biosynthetic process (GO:0008652)	190	6	0.61	+	9.84	4.04E-05	1.58E-02
+S-glycoside metabolic process (GO:0016143)	219	6	0.7	+	8.54	8.66E-05	3.00E-02
+glucosinolate metabolic process (GO:0019760)	219	6	0.7	+	8.54	8.66E-05	2.83E-02
+glycosinolate metabolic process (GO:0019757)	219	6	0.7	+	8.54	8.66E-05	2.68E-02
+glycosyl compound metabolic process (GO:1901657)	279	7	0.9	+	7.82	3.77E-05	1.58E-02
+sulfur compound metabolic process (GO:0006790)	549	13	1.76	+	7.38	2.78E-08	1.63E-04
+alpha-amino acid metabolic process (GO:1901605)	368	8	1.18	+	6.78	2.80E-05	1.27E-02
+cellular amino acid metabolic process (GO:0006520)	566	9	1.82	+	4.96	9.41E-05	2.77E-02
+secondary metabolic process (GO:0019748)	810	12	2.6	+	4.62	1.19E-05	1.00E-02
